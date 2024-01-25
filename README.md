@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo18702
-Fork on GitHub5575
 <h1 align="center">Hi 👋, I'm Ghulam Mujtaba</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
