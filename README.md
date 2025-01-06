@@ -1,15 +1,35 @@
-<h1 align="center">Hi 👋, I'm Ghulam Mujtaba</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h1 align="center" style="color:#4CAF50; font-family: 'Arial';">
+  Hi 👋, I'm Ghulam Mujtaba
+</h1>
+<h3 align="center" style="color:#607D8B; font-family: 'Georgia';">
+  A passionate Software Engineer from Pakistan
+</h3>
 
-<img align="right" width="400" alt="coding" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+<div align="center">
+  <img align="center" width="400" alt="coding" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+</div>
 
-- 📫 How to reach me **ghulammujtaba.dro@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">ghulammujtaba.dro@gmail.com</p>
-<p align="left">+923105403646</p>
+- 📫 How to reach me:  
+  **Email:** ghulammujtaba.dro@gmail.com  
+  **Phone:** +92 310 5403646  
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left" style="color:#4CAF50; font-family: 'Georgia';">
+  Connect with me:
+</h3>
+<p align="left">
+  📧 ghulammujtaba.dro@gmail.com  
+  📞 +92 310 5403646
+</p>
+
+---
+
+<h3 align="left" style="color:#4CAF50; font-family: 'Georgia';">
+  Languages and Tools:
+</h3>
 <p align="left">
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -22,6 +42,9 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://socket.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socket.io" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -72,6 +95,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux-toolkit" width="40" height="40"/>
   </a>
 </p>
+
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghulammujtaba153&show_icons=true&locale=en&layout=compact" alt="ghulammujtaba153" /></p>
 
