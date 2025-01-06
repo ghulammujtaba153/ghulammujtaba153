@@ -85,6 +85,14 @@
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/>
   </a>
+
+  <a href="https://stripe.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Stripe_Logo%2C_revised_2016.svg/512px-Stripe_Logo%2C_revised_2016.svg.png" alt="stripe" width="40" height="40"/>
+  </a>
+  <a href="https://www.zegocloud.com/" target="_blank" rel="noreferrer">
+    <img src="https://static.zegocloud.com/brand/logo_zegocloud.svg" alt="zegocloud" width="40" height="40"/>
+  </a>
+  
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
